@@ -46,12 +46,4 @@ const time = [];
 
 
 
-shortDays.Sunday.push("Ayers");
-
-emlployees.push("Ayers", 'Watson'); 
-
-console.log(shortDays);
-
-console.log(...emlployees);
-
-console.log(typeof(shortDays.Sunday)); 
+ 
